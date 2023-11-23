@@ -1,3 +1,20 @@
-/* 
-    General Styles
-*/
+body{ 
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+.navbar{
+    background: black;
+}
+button{
+    background: none;
+    border: none;
+}
+.favorites{
+    width: 15rem;
+}
+.img-fluid{
+    width:75%;
+}

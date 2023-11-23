@@ -1,0 +1,32 @@
+.divFondo{
+    background: rgba(0, 0, 0, 0.726);
+    color: white;
+    overflow: auto;
+    white-space: nowrap;
+}
+.card-body{
+    overflow: auto;
+}
+.card-img-top{
+    height: 20rem;
+    width: 18rem;
+}
+.divFondoDescription{
+    background: rgba(0, 0, 0, 0.726);
+    color: white;
+}
+h1{
+    position: sticky;  
+    left: 2rem;
+}
+h3, h1{
+    font-weight: 700;
+}
+.link{
+    
+    font-weight: 700;
+}
+.div-search{
+    position: sticky;  
+    left: 2rem;
+}
